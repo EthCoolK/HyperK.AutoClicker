@@ -5,3 +5,7 @@
 <div>
     Hyper AutoClicker lets you input amount of cps to click and it can do immediately with a press of a button
 </div>
+
+<br clear="left" />
+
+<img width="800" height="400" alt="New Image Below" src="path/to/your/second-image.png" />
