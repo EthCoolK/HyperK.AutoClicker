@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hyper AutoClicker</h1>
 </div>
-<img width="250" height="250" alt="Appearance/Logo.png" src="Appearance/Logo.png" align="left" hspace="40" />
+<img width="250" height="250" alt="Appearance/Logo.png" src="Appearance/Logo.png" align="left" hspace="25" />
 <div>
     Hyper AutoClicker lets you input amount of cps to click and it can do immediately with a press of a button or a key.
     <br />
