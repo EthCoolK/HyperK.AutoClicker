@@ -1,23 +1,14 @@
 <div align="center">
     <h1>Hyper AutoClicker</h1>
 </div>
-<img width="250" height="250" alt="Appearance/Logo.png" src="Appearance/Logo.png" align="center" hspace="35" />
+<img width="400" height="400" alt="Appearance/Logo.png" src="Appearance/Logo.png" align="center" hspace="35" />
 <div>
-    Hyper AutoClicker lets you input amount of cps to click and it can do immediately with a press of a button or a key.
-    <br />
-    <br />
-    Made in golang, for portability as C or C++ normally needs dependencies making it not really ideal.
+    Hyper AutoClicker is a portable lightweight AutoClicker made in __Golang__
 </div>
 
 <br clear="left" />
 
 <div align="center">
     <h1>Explanation</h1>
-    Hyper AutoClicker does this by using user32.dll SendInput() or via other ways.
-    <br />
-    It is made in golang this has gui unlike some that are CLI, making it complex to use rather than simple.
+    Hyper AutoClicker works by calling native methods, like in Windows we use SendInput() via user32.dll
 </div>
-
-
-<img width="800" height="400" alt="New Image Below" src="path/to/your/second-image.png" />
-p
