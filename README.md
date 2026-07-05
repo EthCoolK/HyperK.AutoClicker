@@ -1,12 +1,8 @@
-<div align="center">
-    <h1>Hyper AutoClicker</h1>
-</div>
-<img width="400" height="400" alt="Appearance/Logo.png" src="Appearance/Logo.png" align="center" hspace="35" />
-    </div align="center">Hyper AutoClicker is an open source portable lightweight AutoClicker made in Golang</div>
+# HyperK AutoClicker (Incomplete)
+<img width="260" height="400" alt="Logo of Tool" src="Appearance/Logo.png" align="center" hspace=39 />
 
-<br clear="left" />
+HyperK AutoClicker is an Open Source Portable lightweight AutoClicker made in **Golang**. This was made, so anyone can use an autoclicker offline without needing heavy runtimes such as `C++, Python, Java`
+<br />
 
-<div align="center">
-    <h1>Explanation</h1>
-    Hyper AutoClicker works by calling native methods, like in Windows we use SendInput() via user32.dll.
-</div>
+# Explanation
+**HyperK AutoClicker** works by calling native methods, like in **Windows** we use `SendInput()` via user32.dll. Currently compatibility is only with windows 10
