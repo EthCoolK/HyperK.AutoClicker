@@ -15,7 +15,7 @@
     <h1>Explanation</h1>
     Hyper AutoClicker does this by using user32.dll SendInput() or via other ways.
     <br />
-    It is made in **golang** this has gui unlike some that are CLI, making it complex to use rather than simple.
+    It is made in golang this has gui unlike some that are CLI, making it complex to use rather than simple.
 </div>
 
 
