@@ -10,7 +10,7 @@ HyperK AutoClicker is an Open Source Portable lightweight AutoClicker made in **
 **Currrently in development**
 
 ## Contents
-[How does it work?](#explantion)
+[How does it work?](#explanation)
 
 <br />
 
