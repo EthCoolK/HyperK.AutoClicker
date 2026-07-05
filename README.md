@@ -2,7 +2,7 @@
     <h1>Hyper AutoClicker</h1>
 </div>
 <img width="400" height="400" alt="Appearance/Logo.png" src="Appearance/Logo.png" align="center" hspace="35" />
-    Hyper AutoClicker is a portable lightweight AutoClicker made in __Golang__
+    </p align="center">Hyper AutoClicker is a portable lightweight AutoClicker made in __Golang__</p>
 
 <br clear="left" />
 
